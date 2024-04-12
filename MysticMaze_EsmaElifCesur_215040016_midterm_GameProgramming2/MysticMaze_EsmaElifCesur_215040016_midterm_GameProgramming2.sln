@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysticMaze_EsmaElifCesur_215040016_midterm_GameProgramming2", "MysticMaze_EsmaElifCesur_215040016_midterm_GameProgramming2.csproj", "{040C321A-6799-4415-89C4-C286B36C60CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040C321A-6799-4415-89C4-C286B36C60CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040C321A-6799-4415-89C4-C286B36C60CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040C321A-6799-4415-89C4-C286B36C60CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040C321A-6799-4415-89C4-C286B36C60CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECF2E4C-C38C-4BBF-AF29-083E263CA476}
+	EndGlobalSection
+EndGlobal

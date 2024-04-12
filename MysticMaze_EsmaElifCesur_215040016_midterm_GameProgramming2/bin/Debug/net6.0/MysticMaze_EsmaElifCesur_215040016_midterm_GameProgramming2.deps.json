@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MysticMaze_EsmaElifCesur_215040016_midterm_GameProgramming2/1.0.0": {
+        "runtime": {
+          "MysticMaze_EsmaElifCesur_215040016_midterm_GameProgramming2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MysticMaze_EsmaElifCesur_215040016_midterm_GameProgramming2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
